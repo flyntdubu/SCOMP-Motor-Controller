@@ -1,0 +1,11 @@
+# Ignore Quartus generated files.
+db
+incremental_db
+simulation
+output_files
+timing
+testbench
+*.qws
+*.bak
+*.mif
+
